@@ -2,6 +2,6 @@
 
 _Italic_
 
-\(\int f(x) dx\)
+\\(\int f(x) dx\\)
 
 *Bold*
